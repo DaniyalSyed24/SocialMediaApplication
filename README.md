@@ -1,2 +1,2 @@
 # SocialMediaApplication
-Y2 - Networked Software Development
+Y2 - Networked Software Development: Multithreaded Client-Server Assignment
